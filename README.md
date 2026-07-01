@@ -2,6 +2,9 @@
 
 A cross-platform utility for replacing the built-in animated Microsoft Teams video backgrounds with your own MP4 videos.
 
+You can find looping videos with a google search for "animated looping videos" if you don't have any of your own.
+
+
 The project includes:
 
 - **Windows PowerShell** version
